@@ -10,9 +10,9 @@ In order to run this application, you need to have a connection to a running que
 
 These contain the classes for JMS and IBM MQ's JMS API.
 
-[JMS classes](http://central.maven.org/maven2/javax/jms/javax.jms-api/2.0.1/javax.jms-api-2.0.1.jar)
+[JMS classes](http://search.maven.org/maven2/javax/jms/javax.jms-api/2.0.1/javax).jms-api-2.0.1.jar)
 
-[IBM MQ classes for JMS](http://central.maven.org/maven2/com/ibm/mq/com.ibm.mq.allclient/9.0.4.0/com.ibm.mq.allclient-9.0.4.0.jar)
+[IBM MQ classes for JMS](http://search.maven.org/maven2/com/ibm/mq/com.ibm.mq.allclient/9.0.4.0/com.ibm.mq.allclient-9.0.4.0.jar)
 
 ## Compile
 
